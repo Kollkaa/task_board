@@ -1,0 +1,4 @@
+#Fri Apr 16 21:09:18 EEST 2021
+base.0=/Users/mykolamykhailov/AndroidStudioProjects/task_board/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
