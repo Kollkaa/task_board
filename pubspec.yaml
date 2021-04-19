@@ -32,6 +32,7 @@ dependencies:
   global_configuration: ^1.6.0
   get_storage: 1.4.0
   shimmer: any
+  flutter_slidable: any
 
 
 dev_dependencies:
